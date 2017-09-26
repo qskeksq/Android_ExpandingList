@@ -6,7 +6,7 @@
 - SCROLL_STATE_IDLE&isLastData를 통해 추가로 데이터 세팅
 - AbsListView & onScrollListener 이해
 
-![]()
+![](https://github.com/qskeksq/ExpandingList/blob/master/pic/expandinglist.gif)
 
 #### ServiceGenerator
 ```java
